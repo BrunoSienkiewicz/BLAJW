@@ -1,0 +1,3 @@
+' -> "
+tytuły na str
+czas na minuty (int)

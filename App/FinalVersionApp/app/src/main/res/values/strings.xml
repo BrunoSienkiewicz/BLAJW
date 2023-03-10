@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BLAJW</string>
+    <string name="ingredient_name_hint">SKŁADNIK</string>
+    <string name="ingredient_quantity_hint">ILOŚĆ</string>
+    <string name="add_button_text">DODAJ</string>
+    <string name="suggest_recipes_button_text">PRZEPISY</string>
+    <string name="remove_button_text">USUŃ</string>
+    <string name="select_recipe_button_text">WYBIERZ</string>
+    <string name="title_recipe_text">PRZEPISY</string>
+</resources>
